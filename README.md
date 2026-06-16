@@ -109,6 +109,4 @@ Voce pode usar, copiar, modificar e adaptar este projeto para fins pessoais, pro
 
 Se o projeto, uma versao modificada dele ou uma ideia diretamente derivada for redistribuida, publicada, divulgada ou usada como meio de propagacao, os creditos ao autor original devem ser mantidos.
 
-Autor original: Gabriel.
-
-Veja o arquivo `LICENSE` para os termos completos.
+Autor original: Gabriel Cantú
